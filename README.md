@@ -1,2 +1,0 @@
-# micronaut
-doc of micronaut
